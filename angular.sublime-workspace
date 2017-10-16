@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"node_modules"
+			],
+			[
+				"App",
+				"AppComponent"
+			],
+			[
+				"plat",
+				"platformBrowserDynamic"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"sor",
+				"sort_order"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"saved",
+				"saved_restaurants"
+			],
+			[
+				"res",
+				"restaurants"
+			],
+			[
+				"line",
+				"line_array"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"fie",
+				"filepath"
+			],
+			[
+				"file_",
+				"file_usable"
+			],
+			[
+				"rest",
+				"restaurant"
+			],
+			[
+				"fa",
+				"filepath"
+			],
+			[
+				"exits",
+				"exists"
+			],
+			[
+				"ext",
+				"exists"
+			],
+			[
+				"cre",
+				"create_file"
+			],
+			[
+				"tier",
+				"tier_number"
+			],
+			[
+				"tt_r",
+				"tt_rate_component_tiers"
+			],
+			[
+				"tie",
+				"tier_number"
+			],
+			[
+				"num",
+				"num_tiers"
+			],
+			[
+				"is",
+				"is-vishidden"
+			],
+			[
+				"compl",
+				"completed_at"
+			],
+			[
+				"custome",
+				"customer_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.modules.ts",
+			"settings":
+			{
+				"buffer_size": 735,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/component.app.ts",
+			"settings":
+			{
+				"buffer_size": 5294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 302,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "systemjs.config.js",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hai.trinh/Desktop/lynda/learnangular"
+	],
+	"file_history":
+	[
+		"/Users/hai.trinh/Desktop/lynda/learnangular/angular.sublime-project",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/systemjs.config.js",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/app/app.boot.ts",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/package.json",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.d.ts",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/tsconfig.json",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/partials/app.html",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/index.html",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/app/component.app.ts",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/app/component.nav-tab.ts",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/node_modules/@angular/compiler/package.json",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/partials/nav-tab.html",
+		"/Users/hai.trinh/Desktop/lynda/learnangular/app/app.boot.js",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter09/lib/number_helper.rb",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter09/restaurants.txt",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter09/09_12_food_finder/lib/support/string_extend.rb",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter09/init.rb",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter09/guides.rb",
+		"/Users/hai.trinh/Desktop/clients/smud/nem1/opwr_smud_rate_periods_20171001.txt",
+		"/Users/hai.trinh/Desktop/clients/smud/nem1/opwr_smud_rate_plans_and_components_20171001.txt",
+		"/Users/hai.trinh/Desktop/clients/smud/nem1/opwr_smud_rate_prices_20171001.txt",
+		"/Users/hai.trinh/Desktop/clients/smud/NEM1/opwr_rate_plans_and_components_20171001.txt",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter07/07_01_ruby_sandbox/classes.rb",
+		"/Users/hai.trinh/Desktop/clients/scg/opwr_scg_res_v1-0-0_classification_customer_20170906.tab",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter05/05_01_ruby_sandbox/methods.rb",
+		"/Users/hai.trinh/opower/mail_maker/lib/templates/pse/pse_energy_center.html.erb",
+		"/Users/hai.trinh/opower/clients/smud/src/main/resources/clientconfig/clients/smud/scripts/CO-62434_smud_tier_collapse.sql",
+		"/Users/hai.trinh/Desktop/lynda/Ex_Files_Ruby_EssT/exercise_files/Chapter01/simple_file.rb",
+		"/Users/hai.trinh/opower/mail_maker/lib/mail_maker/config/configuration.rb",
+		"/Users/hai.trinh/opower/mail_maker/lib/mail_maker/version.rb",
+		"/Users/hai.trinh/Downloads/stock_treemap.html",
+		"/Users/hai.trinh/Desktop/clients/sce/CO-62178/CO-62178_CCF_PR_Delivered.sql",
+		"/Users/hai.trinh/Desktop/clients/sce/CO-62178/CO-62178_CCF_enrollment_round_3.sql",
+		"/Users/hai.trinh/Desktop/clients/scg/opwr_scg_classification_customer_20170906.txt",
+		"/Users/hai.trinh/Desktop/clients/scg/opwr_scg_classification_customer_20170906_2.txt",
+		"/Users/hai.trinh/Desktop/clients/scg/test.txt",
+		"/Users/hai.trinh/Desktop/clients/scg/opwr_scg_res_v1-4-0_classification_customer_20170906.txt",
+		"/Users/hai.trinh/Desktop/clients/kcpl/Opower61417/css/opower-kcpl.css",
+		"/Users/hai.trinh/opower/theme/en_us/sce/theme/body_es_US.html",
+		"/Users/hai.trinh/opower/theme/en_us/sce/theme/body.html",
+		"/private/var/poseur/themes/en_us/kcpl/body.html",
+		"/private/var/poseur/themes/en_us/sce/body.html",
+		"/private/var/poseur/themes/en_us/kcpl/tabs.json",
+		"/private/var/poseur/themes/en_us/kcpl2/tabs.json",
+		"/private/var/poseur/themes/en_us/kcpl2/assets/masterMenu.js",
+		"/private/var/poseur/themes/en_us/sce/tabs.json",
+		"/Users/hai.trinh/Downloads/Opower61417/general-04-opower-siteframe.html",
+		"/private/var/poseur/themes/en_us/kcpl/assets/masterMenu.js",
+		"/private/var/poseur/themes/en_us/kcpl2/body.html",
+		"/private/var/poseur/themes/en_us/kcpl2/assets/overrides.css",
+		"/private/var/poseur/themes/en_us/kcpl2/assets/theme.css",
+		"/private/var/poseur/themes/en_us/kcpl/assets/overrides.css",
+		"/private/var/poseur/themes/en_us/kcpl/assets/theme.css",
+		"/Users/hai.trinh/opower/astro/src/main/resources/config/application.properties",
+		"/Users/hai.trinh/opower/astro/src/main/webapp/css/ei/base.css",
+		"/Users/hai.trinh/opower/astro/src/main/webapp/WEB-INF/jsp/page_views/compareMyBills.jsp",
+		"/Users/hai.trinh/opower/astro/src/main/webapp/WEB-INF/jsp/page_views/myEnergyUse.jsp",
+		"/Users/hai.trinh/opower/astro/src/main/webapp/WEB-INF/scss/ei/base.scss",
+		"/Users/hai.trinh/opower/astro/src/main/webapp/WEB-INF/jsp/pages/test/index.jsp",
+		"/Users/hai.trinh/opower/deployment-instructions/CO-063/CO-63171_scg_address_undeliverables.yml",
+		"/Users/hai.trinh/Desktop/sce_html",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/clients/scg/scripts/CO-63171_undeliverable.sql",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/clients/scg/scripts/CO-63171_undeliverable.rb",
+		"/Users/hai.trinh/Downloads/mappings (1).properties",
+		"/Users/hai.trinh/Desktop/clients/pse/pse_aug_unsub_list.csv",
+		"/Users/hai.trinh/Desktop/clients/pse/unsubscribe03022017.tsv",
+		"/Users/hai.trinh/Desktop/clients/pgn/sorted.txt",
+		"/Users/hai.trinh/Desktop/clients/pgn/opwr_pgn_resv1-4-0_interval15_20170808.txt",
+		"/Users/hai.trinh/opower/mail_maker/,",
+		"/Users/hai.trinh/Desktop/clients/rmp/opwr_rmp_full_history_400_20170726.txt",
+		"/Users/hai.trinh/Desktop/clients/rmp/opwr_rmp_full_onecustomer.txt",
+		"/Users/hai.trinh/Desktop/curl https:::bertha-stage.va.opower.it:v1:schedule",
+		"/Users/hai.trinh/Desktop/clients/pse/CO-63370_mapping.sql",
+		"/Users/hai.trinh/opower/clients/gwp/src/main/resources/clientconfig/clients/gwp/scripts/CO-63378/CO-63378_GWP_clean_up_csg_table.sql",
+		"/Users/hai.trinh/opower/clients/cps/src/main/resources/clientconfig/clients/cps/scripts/CO-63372_remove_customer_study_group.sql",
+		"/Users/hai.trinh/Desktop/clients/scg/scg_email_opt_outs.txt",
+		"/Users/hai.trinh/Desktop/clients/scg/CANSPAM_OPOWER_28C-5.csv",
+		"/Users/hai.trinh/Desktop/clients/scg/CAn",
+		"/Users/hai.trinh/Desktop/clients/scg/scg_email_opt_outs2.txt",
+		"/Users/hai.trinh/Desktop/clients/scg/CANSPAM_OPOWER_28C-5.xlsx",
+		"/Users/hai.trinh/opower/clients/sdge/src/main/resources/clientconfig/clients/sdge/dataIntegration-SDGE-nodeps.xml",
+		"/Users/hai.trinh/opower/clients/sdge/src/main/resources/clientconfig/application.properties",
+		"/Users/hai.trinh/opower/clients/smud/src/main/resources/clientconfig/stage/dc6/smud/application.properties",
+		"/Users/hai.trinh/opower/clients/smud/src/main/resources/clientconfig/prod/dc6/smud/application.properties",
+		"/Users/hai.trinh/opower/mail_maker/bin/lib",
+		"/Users/hai.trinh/opower/mail_maker/lib/templates/pse/pse_natural_gas.html.erb",
+		"/Users/hai.trinh/Desktop/clients/pse/pse_led_bulbs.html",
+		"/Users/hai.trinh/opower/clients/smud/src/main/resources/clientconfig/dev/imp/dc6/smud/application.properties",
+		"/Users/hai.trinh/opower/clients/mil/src/main/resources/clientconfig/clients/mil/scripts/CO-62964_undeliverable.sql",
+		"/Users/hai.trinh/Desktop/opwr_rmp_full_history_net_400_20170726.txt",
+		"/Users/hai.trinh/Desktop/opwr_rmp_full_history_net_400_20170726.csv",
+		"/Users/hai.trinh/Desktop/opwr_rmp_full_history_net_400_20170726.txt.gz",
+		"/Users/hai.trinh/Desktop/clients/pse/080117_Upgrades-GE-Target_v4_JFedits_0717.html",
+		"/Users/hai.trinh/opower/clients/sdge/src/main/resources/clientconfig/clients/sdge/ei/messages.properties",
+		"/Users/hai.trinh/Desktop/rate_from_docs",
+		"/Users/hai.trinh/Desktop/rate_from_xls_200",
+		"/Users/hai.trinh/Desktop/file3",
+		"/Users/hai.trinh/Desktop/168.txt",
+		"/Users/hai.trinh/opower/clients/aps/src/main/resources/clientconfig/stage/dc6/aps/application.properties",
+		"/Users/hai.trinh/opower/clients/aps/src/main/resources/clientconfig/prod/dc6/aps/application.properties",
+		"/Users/hai.trinh/opower/clients/aps/src/main/resources/clientconfig/prod/ca/aps/application.properties",
+		"/Users/hai.trinh/Downloads/sample_SAML_assertion_multiAccount.xml",
+		"/Users/hai.trinh/Desktop/Opower/rate_code_appender.xml",
+		"/Users/hai.trinh/Desktop/RATE.txt",
+		"/Users/hai.trinh/Desktop/RATE",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/clients/scg/messages.properties",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/application.properties",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/styles.properties",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/clients/scg/ei/messages.properties",
+		"/Users/hai.trinh/opower/clients/scg/src/main/resources/clientconfig/reportAdditionalContexts.xml",
+		"/Users/hai.trinh/opower/clients/clients"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"typescript",
+			"AppModule",
+			"ArtistDetailsComponent",
+			"artist-item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.modules.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/component.app.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 14.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "systemjs.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

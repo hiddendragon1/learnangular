@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{	
+			"folder_exclude_patterns": [".vscode","node_modules"],
+			"path": ".",
+			"file_exclude_patterns" : ["*.js","*.map"]
+		}
+		
+	]
+}

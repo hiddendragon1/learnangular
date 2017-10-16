@@ -1,0 +1,1 @@
+{"version":3,"file":"component.artist-item.js","sourceRoot":"","sources":["component.artist-item.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;gBASA;gBAAkC,CAAC;gBAAtB,mBAAmB;oBAP/B,gBAAS,CAAC;wBACT,QAAQ,EAAE,aAAa;wBACvB,WAAW,EAAE,2BAA2B;wBACxC,SAAS,EAAE,CAAC,qBAAqB,CAAC;wBAClC,MAAM,EAAE,CAAC,QAAQ,CAAC;qBACnB,CAAC;mBAEW,mBAAmB,CAAG;gBAAD,0BAAC;aAAA,AAAnC;;QAAmC,CAAC"}

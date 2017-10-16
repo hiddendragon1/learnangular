@@ -1,4 +1,4 @@
-/**
+  /**
  * System configuration for Angular 2 samples
  * Adjust as necessary for your application needs.
  */
@@ -9,7 +9,9 @@
     'app': 'app', // 'dist',
 
     '@angular': 'node_modules/@angular',
-    'rxjs': 'node_modules/rxjs'
+    'rxjs': 'node_modules/rxjs',
+    '@ng-bootstrap': 'node_modules/@ng-bootstrap',
+
   };
 
   // packages tells the System loader how to load when no filename and/or no extension
@@ -29,6 +31,24 @@
     'router',
   ];
 
+  var ngbPackages = [ 
+      'accordion',
+      'alert',
+      'buttons',
+      'collapse',
+      'rating',
+      'datepicker',
+      'modal',
+      'tabset',
+      'popover',
+      'tooltip'
+  ]
+
+function setngbPackages(pkgName) {
+    packages['@ng-bootstrap/ng-bootstrap/' + pkgName] = { main: pkgName+'.js', defaultExtension: 'js' };
+  }
+
+
   // Individual files (~300 requests):
   function packIndex(pkgName) {
     packages['@angular/' + pkgName] = { main: 'index.js', defaultExtension: 'js' };
@@ -45,9 +65,13 @@
   // Add package entries for angular packages
   ngPackageNames.forEach(setPackageConfig);
 
+  ngbPackages.forEach(setngbPackages);
+
+
   var config = {
     map: map,
     packages: packages
+
   };
 
   System.config(config);
